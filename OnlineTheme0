@@ -2,6 +2,8 @@
   "id": "0",
   "image": "data:image/png;base64,",
   "text": "https://raw.",
-  "border": "3px solid red"
-  "author": ""
+  "border": "3px solid red",
+  "author": "",
+  "authors": "",
+  "source": "",
 }
