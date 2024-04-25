@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "5",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/blob/master/Themes/GGO_Kirito/GGO_Kirito.theme.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "VaporousCreeper",
+  "contributors": "VaporousCreeper",
+  "source": "https://betterdiscord.app/theme/GGO%20Kirito",
+  "name": "GGO Kirito"
 }
