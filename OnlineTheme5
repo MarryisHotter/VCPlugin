@@ -1,7 +1,7 @@
 {
   "id": "5",
   "image": "data:image/png;base64,=",
-  "text": "https://github.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/blob/master/Themes/GGO_Kirito/GGO_Kirito.theme.css",
+  "text": "https://raw.githubusercontent.com/VaporousCreeper/BetterDiscord-ThemesAndPlugins/master/Themes/GGO_Kirito/GGO_Kirito.theme.css",
   "border": "3px solid red",
   "author": "VaporousCreeper",
   "contributors": "VaporousCreeper",
