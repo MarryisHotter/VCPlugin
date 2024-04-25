@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "7",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://raw.githubusercontent.com/DevEvil99/DarkPlus-Discord-Theme/main/Dark%2B.theme.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "DevEvil",
+  "contributors": "DevEvil",
+  "source": "https://betterdiscord.app/theme/Dark%2B",
+  "name": "Dark+"
 }
