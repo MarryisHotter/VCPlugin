@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "12",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://raw.githubusercontent.com/KillYoy/DiscordNight/master/DiscordNight.theme.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "KillYoy",
+  "contributors": "KillYoy",
+  "source": "https://betterdiscord.app/theme/DiscordNight",
+  "name": "DiscordNight"
 }
