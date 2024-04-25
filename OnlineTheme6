@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "6",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://raw.githubusercontent.com/DiscordStyles/FrostedGlass/deploy/FrostedGlass.theme.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "Gibbu",
+  "contributors": "Gibbu",
+  "source": "https://betterdiscord.app/theme/Frosted%20Glass",
+  "name": "Frosted Glass"
 }
