@@ -1,9 +1,10 @@
- {
-  "id": "0",
-  "image": "data:image/png;base64,",
-  "text": "https://raw.",
+{
+  "id": "",
+  "image": "data:image/png;base64,=",
+"text": "",
   "border": "3px solid red",
   "author": "",
-  "contributors": "hi",
-  "source": "https://betterdiscord.app/theme/ClearVision",
+  "contributors": "",
+  "source": "",
+  "name": ""
 }
