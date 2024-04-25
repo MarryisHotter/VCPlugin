@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "9",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://raw.githubusercontent.com/mwittrien/BetterDiscordAddons/master/Themes/BasicBackground/BasicBackground.theme.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "DevilBro",
+  "contributors": "DevilBro",
+  "source": "https://betterdiscord.app/theme/BasicBackground",
+  "name": "BasicBackground"
 }
