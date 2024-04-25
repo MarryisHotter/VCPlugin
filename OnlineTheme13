@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "13",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://capnkitten.github.io/BetterDiscord/Themes/Spotify-Discord/css/source.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "CapnKitten",
+  "contributors": "CapnKitten",
+  "source": "https://betterdiscord.app/theme/Spotify%20Discord",
+  "name": "Spotify Discord"
 }
