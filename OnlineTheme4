@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "4",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://github.com/puckzxz/NotAnotherAnimeTheme/blob/master/NotAnotherAnimeTheme.theme.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "puckzxz",
+  "contributors": "puckzxz",
+  "source": "https://betterdiscord.app/theme/NotAnotherAnimeTheme",
+  "name": "NotAnotherAnimeTheme"
 }
