@@ -1,10 +1,10 @@
 {
-  "id": "",
+  "id": "3",
   "image": "data:image/png;base64,=",
-  "text": "",
+  "text": "https://github.com/PlusInsta/discord-plus/blob/master/DiscordPlus.theme.css",
   "border": "3px solid red",
-  "author": "",
-  "contributors": "",
-  "source": "",
-  "name": ""
+  "author": "Insta",
+  "contributors": "Insta, Notiphiliac",
+  "source": "https://betterdiscord.app/theme/Discord%2B",
+  "name": "Discord+"
 }
